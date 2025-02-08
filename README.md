@@ -26,7 +26,10 @@ Este proyecto nos permitirá:
 • Extracción de datos con la API de last.fm para obtener información sobre biografía del artista, número de reproducciones y artistas similares.  
 
 ### Fase 2: Organización y Almacenamiento de Datos  
-Una vez recopilada toda la información, la trasladamos a SQL para definir una estructura de nuestra base de datos y crear las tablas que necesitaremos y las conexiones entre ellas. 
+Una vez recopilada toda la información, la trasladamos a SQL para definir la estructura de nuestra base de datos y crear las tablas que necesitaremos y las conexiones entre ellas, según el siguiente diagrama:  
+![Relacion_tablas](https://github.com/user-attachments/assets/13903362-36f9-42c2-930b-9a3e69961fc8)
+
+
 
 ### Fase 3: Análisis y Consultas de Datos  
 Realizamos diversas consultas en MySQLWorkbench para responder preguntas clave sobre la popularidad de las canciones y tendencias musicales, que puedan aportar insights valiosos a nuestro cliente MusicStream. 
