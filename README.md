@@ -5,36 +5,36 @@ MusicStream es un proyecto donde nos proponemos explorar y entender las tendenci
 
 ## Objetivos del Proyecto
 El objetivo es identificar las canciones y artistas más populares de los últimos años, utilizando técnicas de extracción de datos desde diferentes fuentes, como la API de Spotify, y last.fm. Posteriormente, almacenamos la información en una base de datos y realizamos consultas para analizar los resultados de nuestros datos y obtener insights clave.
-Este proyecto nos permitirá:
-• Consolidar nuestros conocimientos de Python y SQL.
-• Implementar control de versiones en equipo, usando Git y GitHub.
+Este proyecto nos permitirá:  
+• Consolidar nuestros conocimientos de Python y SQL.  
+• Implementar control de versiones en equipo, usando Git y GitHub.  
 • Reforzar nuestras habilidades de colaboración y comunicación mediante el trabajo colaborativo.
 
-## Equipo
-• Hermi Morales (scrum master)
-• Andrea
-• Cristina Fernández
-• Elisa García 
-• Jessica Moreaux
-• Jana Raga
+## Equipo  
+• Hermi Morales (scrum master)  
+• Andrea  
+• Cristina Fernández  
+• Elisa García  
+• Jessica Moreaux  
+• Jana Raga  
 
 ## Desarrollo del Proyecto
-### Fase 1: Planificacion del proyecto y Extracción de Datos
-• Elección de la scrum master y organización de tareas.
-• Creación de la infraestructura necesaria: repositorio en GitHub con acceso para todos los miembros del equipo.
-• Extracción de datos con la API de Spotify para obtener información sobre canciones, álbumes, géneros, artistas y año de lanzamiento.
-• Extracción de datos con la API de last.fm para obtener información sobre biografía del artista, número de reproducciones y artistas similares. 
+### Fase 1: Planificacion del proyecto y Extracción de Datos  
+• Elección de la scrum master y organización de tareas.  
+• Creación de la infraestructura necesaria: repositorio en GitHub con acceso para todos los miembros del equipo.  
+• Extracción de datos con la API de Spotify para obtener información sobre canciones, álbumes, géneros, artistas y año de lanzamiento.  
+• Extracción de datos con la API de last.fm para obtener información sobre biografía del artista, número de reproducciones y artistas similares.  
 
-### Fase 2: Organización y Almacenamiento de Datos
+### Fase 2: Organización y Almacenamiento de Datos  
 Una vez recopilada toda la información, la trasladamos a SQL para definir una estructura de nuestra base de datos y crear las tablas que necesitaremos y las conexiones entre ellas. 
 
-### Fase 3: Análisis y Consultas de Datos
+### Fase 3: Análisis y Consultas de Datos  
 Realizamos diversas consultas en MySQLWorkbench para responder preguntas clave sobre la popularidad de las canciones y tendencias musicales, que puedan aportar insights valiosos a nuestro cliente MusicStream. 
 
-## Contenido del Proyecto
-• Script de Python para la extracción de datos mediante las APIs de Spotify y last.fm
-• CSVs generados a través de dichas APIs
-• Script de MySQL Workbench con la limpieza de la base de datos y las consultas. 
+## Contenido del Proyecto  
+• Script de Python para la extracción de datos mediante las APIs de Spotify y last.fm  
+• CSVs generados a través de dichas APIs  
+• Script de MySQL Workbench con la limpieza de la base de datos y las consultas.   
 
-## Conclusiones
+## Conclusiones  
 Al finalizar este proyecto, hemos obtenido una comprensión más profunda de las tendencias musicales actuales. Los resultados de nuestro análisis no solo nos ayudarán a identificar qué canciones y álbumes son más populares, sino que también proporcionarán información valiosa para mejorar la experiencia de los usuarios de MusicStream.
