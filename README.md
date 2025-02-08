@@ -1,5 +1,5 @@
 # Proyecto final del módulo 2 del Bootcamp de Data Analytics de Adalab
-# MusicStream: Análisis de Popularidad de Canciones en la Era Digital
+## MusicStream: Análisis de Popularidad de Canciones en la Era Digital
 ## Descripción del Proyecto
 MusicStream es un proyecto donde nos proponemos explorar y entender las tendencias musicales de la era digital para ayudar a nuestro cliente a mejorar la experiencia de sus usuarios. El proyecto se enfocará en analizar la popularidad de canciones y artistas de 4 géneros musicales (pop, rock, r&b y latino) desde el año 2020 hasta la fecha, utilizado para ello datos extraídos de plataformas como Spotify y last.fm mediante el uso de sus APIs.
 
