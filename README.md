@@ -37,7 +37,8 @@ Realizamos diversas consultas en MySQLWorkbench para responder preguntas clave s
 ## Contenido del Proyecto  
 • Script de Python para la extracción de datos mediante las APIs de Spotify y last.fm  
 • CSVs generados a través de dichas APIs  
-• Script de MySQL Workbench con la limpieza de la base de datos y las consultas.   
+• Script de MySQL Workbench con la limpieza de la base de datos y las consultas.  
+• Bases de datos de SQL  
 
 ## Conclusiones  
 Al finalizar este proyecto, hemos obtenido una comprensión más profunda de las tendencias musicales actuales. Los resultados de nuestro análisis no solo nos ayudarán a identificar qué canciones y álbumes son más populares, sino que también proporcionarán información valiosa para mejorar la experiencia de los usuarios de MusicStream.
