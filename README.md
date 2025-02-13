@@ -27,7 +27,9 @@ Este proyecto nos permitirá:
 
 ### Fase 2: Organización y Almacenamiento de Datos  
 Una vez recopilada toda la información, la trasladamos a SQL para definir la estructura de nuestra base de datos y crear las tablas que necesitaremos y las conexiones entre ellas, según el siguiente diagrama:  
-![Relacion_tablas](https://github.com/user-attachments/assets/564155bc-ca1d-4aaf-8711-3435e890e395)
+![tablas](https://github.com/user-attachments/assets/4f2d96d8-cac7-460c-80a1-654a75df5218)
+
+
 
 
 
