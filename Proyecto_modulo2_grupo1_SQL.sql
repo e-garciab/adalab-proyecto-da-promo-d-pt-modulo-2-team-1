@@ -68,6 +68,21 @@ RENAME COLUMN artistas_similares TO similar_artist;
 ALTER TABLE last_fm
 RENAME COLUMN artist_name TO name_artist;
 
+ALTER TABLE last_fm
+MODIFY COLUMN listeners INT;
+ALTER TABLE last_fm
+MODIFY COLUMN reproductions BIGINT;
+ALTER TABLE last_fm
+MODIFY COLUMN name_artist VARCHAR(50);
+ALTER TABLE spotify
+MODIFY COLUMN name_artist VARCHAR(50);
+ALTER TABLE spotify
+MODIFY COLUMN genre VARCHAR(30);
+ALTER TABLE spotify
+MODIFY COLUMN type VARCHAR(20);
+ALTER TABLE spotify
+MODIFY COLUMN year YEAR;
+
 -- Tenemos la base de datos sin repetidos y procedemos a hacer las queries
 
 -- 1. ¿Qué género fue el más escuchado en cada año?
