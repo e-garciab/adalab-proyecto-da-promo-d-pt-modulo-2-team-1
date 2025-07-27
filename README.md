@@ -42,5 +42,8 @@ Realizamos diversas consultas en MySQLWorkbench para responder preguntas clave s
 • Script de MySQL Workbench con la limpieza de la base de datos y las consultas.  
 • Bases de datos de SQL  
 
+## Presentación  
+https://view.genially.com/67a504a399b14392c9f490b0/presentation-hexabeat
+
 ## Conclusiones  
 Al finalizar este proyecto, hemos obtenido una comprensión más profunda de las tendencias musicales actuales. Los resultados de nuestro análisis no solo nos ayudarán a identificar qué canciones y álbumes son más populares, sino que también proporcionarán información valiosa para mejorar la experiencia de los usuarios de MusicStream.
